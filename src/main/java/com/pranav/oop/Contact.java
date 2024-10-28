@@ -1,6 +1,6 @@
 package com.pranav.oop;
 
-public class Contact {
+public class   Contact {
     private String name;
     private int age;
     private String address;

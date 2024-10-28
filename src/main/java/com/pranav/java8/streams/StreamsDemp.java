@@ -1,4 +1,4 @@
-package com.pranav.streams;
+package com.pranav.java8.streams;
 
 import java.util.Arrays;
 import java.util.List;
