@@ -1,4 +1,4 @@
-package com.pranav.java8FeaturesProblems.Problem4;
+package com.pranav.java8FeaturesProblems.problem4;
 
 import java.util.*;
 import java.time.LocalDate;
