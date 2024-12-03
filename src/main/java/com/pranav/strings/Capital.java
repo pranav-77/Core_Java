@@ -17,8 +17,6 @@ public class Capital {
             res=res+w[i].substring(0,w[i].length()-1).toLowerCase()+Character.toUpperCase(w[i].charAt(w[i].length()-1))+" ";
         }
         System.out.println(res);
-
-
     }
 }
 
