@@ -48,7 +48,6 @@ public class RunnableDemo {
         thread.join();
 
         System.out.println(count);
-
     }
 
     public static synchronized void count() {
